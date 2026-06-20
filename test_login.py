@@ -1,19 +1,7 @@
 from login import login
 
 
-
-
-
-
-
 def test_login():
-
-
-
-
-
-
-
 
     username = "testuser"
     password = "testpassword"
